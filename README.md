@@ -1,6 +1,8 @@
 # Youssef Manssouri
 
-I’m based in Agadir, Morocco. I build independent web, data and mobile projects, with a focus on relational data models, server-side access control and clear interfaces.
+**Software Development**
+
+I’m based in Agadir, Morocco. I build practical software projects and share what I learn along the way. My long-term focus is data engineering, big data, and analytics.
 
 [Portfolio](https://www.youssefmanssouri.site) · [LinkedIn](https://www.linkedin.com/in/youssef-manssouri-24b4662ba/) · [Email](mailto:manssouriyoussef33@gmail.com)
 
@@ -22,8 +24,8 @@ I’m based in Agadir, Morocco. I build independent web, data and mobile project
 
 My [portfolio](https://www.youssefmanssouri.site) includes screenshots, “what I built” summaries and engineering decisions for each project. Repository READMEs describe local setup and current limitations.
 
-**Core stack:** TypeScript · Next.js · React · PostgreSQL · Prisma
+**Tools used in my projects:** TypeScript · Next.js · React · PostgreSQL · Prisma
 
 **Also used:** Python · Pandas · FastAPI · React Native · Supabase
 
-I’m open to developer roles and collaborations.
+I’m open to learning opportunities, project collaborations, and technical discussions.
