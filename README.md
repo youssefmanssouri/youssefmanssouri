@@ -1,7 +1,5 @@
 # Youssef Manssouri
 
-**Full-Stack Developer — TypeScript, Next.js & PostgreSQL**
-
 I’m based in Agadir, Morocco. I build independent web, data and mobile projects, with a focus on relational data models, server-side access control and clear interfaces.
 
 [Portfolio](https://www.youssefmanssouri.site) · [LinkedIn](https://www.linkedin.com/in/youssef-manssouri-24b4662ba/) · [Email](mailto:manssouriyoussef33@gmail.com)
